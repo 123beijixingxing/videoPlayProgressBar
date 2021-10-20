@@ -32,3 +32,7 @@
 15、支持更多功能，开放中...
 
 欢迎更多小伙伴，提出改进意见，加入一起coding
+
+# 效果图
+![1634715868(1)](https://user-images.githubusercontent.com/42537997/138049918-b3b10f3c-bbfd-4dbc-95c1-7ca59ec6b29b.png)
+
